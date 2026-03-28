@@ -53,19 +53,24 @@ RoboDK is a simulation software that allows users to:
 
 * Add objects to the environment
 * Define pick and place positions
+![WhatsApp Image 2026-03-28 at 9 51 42 PM](https://github.com/user-attachments/assets/a50653cb-58d4-4698-9fab-548a5ad1736d)
 
-📸 Add Image Here:
-![Workspace Setup](images/workspace.jpg)
 
+* Take an table on browser library
+  ![WhatsApp Image 2026-03-28 at 9 55 21 PM](https://github.com/user-attachments/assets/2eb564ee-04d2-47f9-b70a-76b2a35a333b)
+
+* take an cube place it on part1 below
+![WhatsApp Image 2026-03-28 at 9 59 29 PM](https://github.com/user-attachments/assets/1f86bd4d-b25e-48eb-bb5f-ce9fa20c7ea3)
+    
 ---
 
 ### Step 3: Define Targets
 
 * Set target points for robot movement
 * Adjust positions for accuracy
+* tee structrue should be like this
 
-📸 Add Image Here:
-![Targets](images/targets.jpg)
+![WhatsApp Image 2026-03-28 at 10 02 32 PM](https://github.com/user-attachments/assets/3a4c1c14-ad4c-45e7-ba52-eac523c1db69)
 
 ---
 
@@ -74,8 +79,8 @@ RoboDK is a simulation software that allows users to:
 * Run the simulation
 * Observe robot picking and placing objects
 
-📸 Add Image Here:
-![Simulation](images/simulation.jpg)
+![WhatsApp Image 2026-03-28 at 9 35 09 PM](https://github.com/user-attachments/assets/5c00a7d0-997f-4a8b-ae82-3c57df71420f)
+
 
 ---
 
@@ -92,8 +97,12 @@ RoboDK is a simulation software that allows users to:
 
 The robot successfully performed pick and place operations in a simulated environment with accurate positioning.
 
-📸 Add Final Output Image:
-![Final Output](images/output.jpg)
+![WhatsApp Image 2026-03-28 at 9 35 09 PM](https://github.com/user-attachments/assets/717dbc19-474e-45dc-aaa4-3733076192b7)
+
+
+![WhatsApp Image 2026-03-28 at 9 35 09 PM (1)](https://github.com/user-attachments/assets/fadd5ca1-ecd3-42b6-8dd8-0df7e573ec5f)
+
+
 
 ---
 
@@ -112,17 +121,15 @@ This project provides a strong foundation in robotic simulation and industrial a
 
 ---
 
-## 📸 Project Gallery
+## YOU TUBE REFERENCE  VIDEO 
+https://youtu.be/dvCbXQUbJ8M?si=Tj4JNNJff59Hsyon
 
-![Image1](images/img1.jpg)
-![Image2](images/img2.jpg)
-![Image3](images/img3.jpg)
 
 ---
 
 ## 👩‍💻 Author
 
-**Your Name**
+**KEERTHANA**
 AI & ML Engineering Student
 Bangalore Institute of Technology
 
